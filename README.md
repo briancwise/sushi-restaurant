@@ -7,7 +7,7 @@ CSS practice for NYU Class.
 
 <style type="text/css" media="screen">
 
-body {   
+body {  
 	color: #333;
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
